@@ -1,4 +1,4 @@
-# AG PROJECT (Project 3)
+# AG PLANNING TOOL
 This repository shares the code, source data, approach and key findings for an examination of weather conditions on the yield of agricultural crops in North Carolina and the design of a **Crop Planning and Protection Tool** that take in weather forecast information, predicts future crop yields and supplies advice to farmers on whether to plant the crop and how to mitgate financial risks.
 
 ## SUMMARY FINDINGS
