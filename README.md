@@ -76,7 +76,6 @@ To use the Ag Planning Tool,
 ### To Run Individual Crop Prediction Models
 To run any of the crop prediction models models located in the [Resources](./Resources/) folder run the _[crop_prediction.ipynb](crop_prediction.ipynb)_ notebook.  Example inputs and model runs are provided within the notebook for reference.
 
-
 ## REFERENCES
 ### Dependencies
 For Local LLM Installation
