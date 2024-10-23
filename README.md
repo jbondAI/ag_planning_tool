@@ -127,6 +127,3 @@ tqdm
 * Michael Szumski | [GitHub @mikeszumski](https://github.com/mikeszumski/)
 * Jamie Bond | [GitHub @JBondAI](https://github.com/jbondAI/) 
 
-## ACKNOWLEGEMENTS
-* Project instruction and requirements provided by [The Artificial Intelligence Boot Camp at UNC Charlotte](https://bootcamp.charlotte.edu/artificial-intelligence/)
-
