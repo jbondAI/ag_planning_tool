@@ -7,7 +7,7 @@ Data evaluation and model development revealed the following:
 * RAG and prompt engineering impacted the quality of the performance of the LLM-generated advice;  augmentating the LLM with agricultural materials from USDA and NC Department of Agriculture yielded better crop-specific advice and enhanced the value of mitgation recommendations
 * Better crop performance predictions require additonal modeling features beyond weather 
 
-See the associated [presentation](['/UNC_AI_Bootcamp_Project_presented.pdf'](./UNC_AI_Bootcamp_Project_3_Presented.pdf)) file for addional context.
+See the associated [presentation](['/UNC_AI_Bootcamp_Project_presented.pdf'](./blob/main/UNC_AI_Bootcamp_Project_3_Presented.pdf) file for addional context.
 
 ## APPROACH
 
